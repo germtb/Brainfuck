@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brainfuck", "Brainfuck\Brainfuck.csproj", "{58A92BB5-C283-4821-AD02-18F847A27E89}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainfuckConsole", "BrainfuckConsole\BrainfuckConsole.csproj", "{5DD89283-8312-409C-A8AC-813DC46F6892}"
 EndProject
 Global
@@ -11,10 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{58A92BB5-C283-4821-AD02-18F847A27E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{58A92BB5-C283-4821-AD02-18F847A27E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{58A92BB5-C283-4821-AD02-18F847A27E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{58A92BB5-C283-4821-AD02-18F847A27E89}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5DD89283-8312-409C-A8AC-813DC46F6892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5DD89283-8312-409C-A8AC-813DC46F6892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DD89283-8312-409C-A8AC-813DC46F6892}.Release|Any CPU.ActiveCfg = Release|Any CPU

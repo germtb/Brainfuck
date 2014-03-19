@@ -34,12 +34,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Brainfuck.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <ProjectReference Include="..\Brainfuck\Brainfuck.csproj">
-      <Project>{58A92BB5-C283-4821-AD02-18F847A27E89}</Project>
-      <Name>Brainfuck</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>
